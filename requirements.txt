@@ -1,6 +1,6 @@
 numpy
 Pillow
-Requests==2.31.0
-streamlit==1.26.0
-tensorflow==2.13.0
-tensorflow_intel==2.13.0
+Requests
+streamlit
+tensorflow
+tensorflow_intel
